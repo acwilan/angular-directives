@@ -1,12 +1,13 @@
 {
-  "name": "angular-directives",
+  "name": "ngacw-directives",
   "description": "AngularJS module to contain directives",
-  "main": "src/angular-directives.module.js",
+  "version": "2.0.0",
+  "main": "src/ngacw-directives.module.js",
   "authors": [
     "Andres Rovira <andres.rovira@gmail.com>"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/acwilan/angular-directives",
+  "homepage": "https://github.com/acwilan/ngacw-directives",
   "ignore": [
     "**/.*",
     "node_modules",
