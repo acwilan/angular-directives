@@ -1,6 +1,6 @@
 {
   "name": "ngacw-directives",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "AngularJS module to contain directives",
   "main": "src/ngacw-directives.module.js",
   "repository": "git@github.com:acwilan/ngacw-directives.git",

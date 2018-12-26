@@ -1,7 +1,7 @@
 {
   "name": "ngacw-directives",
   "description": "AngularJS module to contain directives",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "src/ngacw-directives.module.js",
   "authors": [
     "Andres Rovira <andres.rovira@gmail.com>"
