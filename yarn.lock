@@ -7,10 +7,10 @@ abbrev@1:
   resolved "https://artifactory.engtools.xoom.com:443/artifactory/api/npm/npmjs-virtual/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha1-+PLIh60Qv2f2NPAFtph/7TF5qsg=
 
-angularjs@^0.0.1:
-  version "0.0.1"
-  resolved "https://artifactory.engtools.xoom.com:443/artifactory/api/npm/npmjs-virtual/angularjs/-/angularjs-0.0.1.tgz#496f50c7141515e741ea976de891def0838b3f19"
-  integrity sha1-SW9QxxQVFedB6pdt6JHe8IOLPxk=
+angular@^1.7.5:
+  version "1.7.5"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.7.5.tgz#d1c1c01c6f5dc835638f3f9aa51012857bdac49e"
+  integrity sha512-760183yxtGzni740IBTieNuWLtPNAoMqvmC0Z62UoU0I3nqk+VJuO3JbQAXOyvo3Oy/ZsdNQwrSTh/B0OQZjNw==
 
 ansi-regex@^2.0.0:
   version "2.1.1"
